@@ -14,7 +14,7 @@ global.owner = [
   ['0'],
   ['0'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
-  // [number, dia creator/owner?, dia developer?]
+  // [6283894556422,6283894556422, dia developer?]
 ] // 6283894556422
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
 global.prems = [] // Premium user has unlimited limit
