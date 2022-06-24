@@ -11,8 +11,8 @@ global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.NOWNER
 global.owner = [
-  ['0'],
-  ['0'],
+  ['6283894556422'],
+  ['6283894556422'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [6283894556422,6283894556422, dia developer?]
 ] // 6283894556422
