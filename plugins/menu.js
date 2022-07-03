@@ -26,9 +26,9 @@ let tags = {
   'advanced': '𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝',
   'audio': '𝐀𝐮𝐝𝐢𝐨', 
   'premium': '𝐏𝐫𝐞𝐦𝐢𝐮𝐦', 
-  'info': '𝐈𝐧𝐟𝐨'
-  'anime': 'anime'
-  'nsfw': 'nsfw'
+  'info': '𝐈𝐧𝐟𝐨', 
+  'anime': 'anime', 
+  'nsfw': 'nsfw', 
 }
 const defaultMenu = {
   before: `╭━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
