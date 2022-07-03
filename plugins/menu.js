@@ -1,6 +1,7 @@
 import { promises } from 'fs'
 import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
+let bcbg = 'https://telegra.ph/file/a5591e5c03ecbc0e50b05.jpg'
 let tags = {
   'main': '𝐌𝐚𝐢𝐧',
   'game': '𝐆𝐚𝐦𝐞',
